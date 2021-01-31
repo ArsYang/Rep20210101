@@ -1,0 +1,4 @@
+
+
+copy C:\Users\User\Anaconda3\Library\bin\libcrypto-1_1-x64.*  C:\Users\User\Anaconda3\DLLs
+copy C:\Users\User\Anaconda3\Library\bin\libssl-1_1-x64.*  C:\Users\User\Anaconda3\DLLs
